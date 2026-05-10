@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+datasets/emnist/raw/
+datasets/generate/
+
+outputs/models/
+
+*.ckpt
+*.npz
+
+.idea/
+.vscode/
